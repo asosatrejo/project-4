@@ -1,10 +1,10 @@
-# Air Quality Analysis
-## In North Carolina
+# ☁️ Air Quality Analysis of North Carolina
+This project will build a model to predict air quality in counties around North Carolina. We aim to predict with counties will have the most hazardous days, which will have the least, and whether there is an overall trend of air quilty improving or getting worse in the state.
 
-# Why Choose Air Quality Analysis?
+# 🌤️ Why Choose Air Quality Analysis?
 > Our group aims to create an algorithm that can predict air quality in different counties in North Carolina (NC). Air Quality can affect many people, including those with respiratory issues. As a group, we also feel passionate about protecting the enviroment and felt curious about the air quality of our own state. 
 
-# The Process
+# 🌙 The Process
 
 ## Data Clean Up
 ### Obtain & Merge
@@ -20,7 +20,7 @@ SQLALCHEMY was used to create an engine that will store the data in a table name
 
 ## Analysis
 
-# Sources
+# 🌞 Sources
 We used CSV files from the United States Environmental Protection Agency as our source.
 - [Pre-Generated Data Files](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual)
 
