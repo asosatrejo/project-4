@@ -30,6 +30,7 @@ The primary objective is to employ Linear Regression, facilitated by Scikit-lear
 
 # 📁 Resources: 
 - Presentation Slides: `Environmental ML Analytics.pdf`
+
 Resources Folder contains:
 - 📂 Annual_AQI_1980-2022
   - Contains CSV files later merged into `c_aqi_1980-2022.csv`.
