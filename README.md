@@ -55,5 +55,8 @@ Overall, when displaying our data, the air quality is getting better!
 # 🌞 Sources
 We used CSV files from the United States Environmental Protection Agency as our source.
 - [Pre-Generated Data Files](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual)
+- [Download Daily Data](https://www.epa.gov/outdoor-air-quality-data/download-daily-data)
+- [Air Data Basic Information](https://www.epa.gov/outdoor-air-quality-data/air-data-basic-information#:~:text=The%20AQI%20is%20an%20index,runs%20from%200%20to%20500.)
+- [About Air Data Reports](https://www.epa.gov/outdoor-air-quality-data/about-air-data-reports)
 
 > Project Created by Ariana, Mary, Natalie, and Jolyciel.
