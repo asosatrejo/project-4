@@ -17,25 +17,33 @@ The primary objective is to employ Linear Regression, facilitated by Scikit-lear
 5. **2023 Data:** Finding Data for Mecklenburg and Wake county in order to fit into our model
    ![image](https://github.com/asosatrejo/project-4/assets/135572871/84f0113a-2ea7-4fa1-8b20-3795f8eea7fb)
 ### Files
-Files Used for Pre-Processing: `meck_co.ipynb`, `merge-csv.ipynb`, `nc_2023_data.ipynb`, and `updated_analysis_notebook.ipynb`
+`meck_co.ipynb`, `merge-csv.ipynb`, `nc_2023_data.ipynb`, and `updated_analysis_notebook.ipynb`
 
 ## Data Storage in SQL:
 1. **Database Storage:** Data is saved in table format, suitable for complex queries and analysis.
 2. **Data Migration:** Transfer the preprocessed data into the SQL database for efficient storage and retrieval.
-   Files: nc_aqi_data.db and updated_database.ipynb 
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/4a5aa336-2cf1-4c6b-ab58-eb618a4bbd3a)
+
+### Files
+`nc_aqi_data.db` and `updated_database.ipynb` 
 
 ## Linear Regression Model: 
 1. **Target Variable Definition:** Clearly define the target variable - unhealthy days' percentages.
 2. **Model Selection:** Choose Linear Regression for predicting air quality metrics.
 3. **Training:** Train the model on the preprocessed dataset, emphasizing key features.
 4. **Evaluation:** Assess the model's performance using metrics like Mean Squared Error and R².
-   Files: Model.ipynb
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/9ca011f8-1e3a-412a-8909-ef4fa61e693c)
+
+### Files
+`Model.ipynb`
 
 ## Tableau Dashboard:
 1. **Past Patterns and Future Predictions: ** Showcases predicted pollutant concentrations for 2023 based on previous data
 2. **Exploring Relationships in Exposure Levels: ** Highlights pollutant pairings in Mecklenburg and Wake County
 3. **90th Percentile Analysis: ** Demonstrates line graph of air quality over time.
-   Link to Dashboard: https://public.tableau.com/app/profile/mary.feaster/viz/EnvironmentalMLAnalyticsNCUrbanAreas/Story1
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/2e715688-2d1f-4c43-b8fb-8f7305b77efe)
+
+   [View Tableau Dashboard](https://public.tableau.com/app/profile/mary.feaster/viz/EnvironmentalMLAnalyticsNCUrbanAreas/Story1)
 
 # 📁 Resources: 
 - Presentation Slides: `Environmental ML Analytics.pdf`
