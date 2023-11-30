@@ -29,8 +29,8 @@ The primary objective is to employ Linear Regression, facilitated by Scikit-lear
 4. **Evaluation:** Assess the model's performance using metrics like Mean Squared Error and R².
    Files: Model.ipynb
 
-## Resources Folder: 
-This folder contains all of the csv files used to create our analysis, inlcuding the predicted 2023 values found in predicted_2023.csv. 
+## Resources: 
+The folder labled as "Resources" contains all of the csv files used to create our analysis, inlcuding the predicted 2023 values found in predicted_2023.csv. 
 
 ## Conclusion:
 
