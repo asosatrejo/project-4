@@ -32,18 +32,17 @@ The primary objective is to employ Linear Regression, facilitated by Scikit-lear
 2. **Model Selection:** Choose Linear Regression for predicting air quality metrics.
 3. **Training:** Train the model on the preprocessed dataset, emphasizing key features.
 4. **Evaluation:** Assess the model's performance using metrics like Mean Squared Error and R².
-   ![image](https://github.com/asosatrejo/project-4/assets/135572871/9ca011f8-1e3a-412a-8909-ef4fa61e693c)
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/a8447227-2553-49a5-bf0f-0e1fd911f344)
 
 ### Files
 `Model.ipynb`
 
 ## Tableau Dashboard:
-1. **Past Patterns and Future Predictions: ** Showcases predicted pollutant concentrations for 2023 based on previous data
-2. **Exploring Relationships in Exposure Levels: ** Highlights pollutant pairings in Mecklenburg and Wake County
-3. **90th Percentile Analysis: ** Demonstrates line graph of air quality over time.
-   ![image](https://github.com/asosatrejo/project-4/assets/135572871/2e715688-2d1f-4c43-b8fb-8f7305b77efe)
+1. **Past Patterns and Future Predictions:** Showcases predicted pollutant concentrations for 2023 based on previous data
+2. **Exploring Relationships in Exposure Levels:** Highlights pollutant pairings in Mecklenburg and Wake County
+3. **90th Percentile Analysis:** Demonstrates line graph of air quality over time.
 
-   [View Tableau Dashboard](https://public.tableau.com/app/profile/mary.feaster/viz/EnvironmentalMLAnalyticsNCUrbanAreas/Story1)
+**View [Tableau](https://public.tableau.com/app/profile/mary.feaster/viz/EnvironmentalMLAnalyticsNCUrbanAreas/Story1) Dashboard**
 
 # 📁 Resources: 
 - Presentation Slides: `Environmental ML Analytics.pdf`
