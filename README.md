@@ -28,6 +28,12 @@ The primary objective is to employ Linear Regression, facilitated by Scikit-lear
 4. **Evaluation:** Assess the model's performance using metrics like Mean Squared Error and R².
    Files: Model.ipynb
 
+## Tableau Dashboard:
+1. **Past Patterns and Future Predictions: ** Showcases predicted pollutant concentrations for 2023 based on previous data
+2. **Exploring Relationships in Exposure Levels: ** Highlights pollutant pairings in Mecklenburg and Wake County
+3. **90th Percentile Analysis: ** Demonstrates line graph of air quality over time.
+   Files: https://public.tableau.com/app/profile/mary.feaster/viz/EnvironmentalMLAnalyticsNCUrbanAreas/Story1
+
 # 📁 Resources: 
 - Presentation Slides: `Environmental ML Analytics.pdf`
 
@@ -43,6 +49,8 @@ Resources Folder contains:
 
 # ☁️ Conclusion:
 We rigorously evaluated our model's performance using metrics such as r squared. Our model had a high r squared value of 87%, allowing us to attain accurate predicted values. The feature which had the most significant impact on air quality was the 90th Percentage AQI value. After applying our model to the 2023 data, we attained a result of 3% for Mecklenburg and almost 1% for Raleigh. It is 3x the amount of unhealthy air pollutant days in Mecklenburg compared to Wake! We can also interpret these results as 97% Healthy and safe days Mecklenburg and Wake is predicted to have 99% healthy days for this year. Traffic, Transportation, and Population Density are all components which can influence air quality.
+
+Overall, when displaying our data, the air quality is getting better!
 
 # 🌞 Sources
 We used CSV files from the United States Environmental Protection Agency as our source.
