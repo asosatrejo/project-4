@@ -34,9 +34,10 @@ Resources Folder contains:
   - Contains CSV files later merged into `c_aqi_1980-2022.csv`.
   - Merged CSV file was used to train data.
 - 📂 Pollutant_Data
-- cleaned_data.csv
-- nc_2023_data.csv - This is data used to input into the model.
-- predicted_2023.csv - Output from model.
+  - Contains CSV files later merged into `nc_2023_data.csv`.
+  - - This is data used to input into the model.
+- `cleaned_data.csv`
+- `predicted_2023.csv` - Output from model.
 
 # ☁️ Conclusion:
 We rigorously evaluated our model's performance using metrics such as r squared. Our model had a high r squared value of 87%, allowing us to attain accurate predicted values. The feature which had the most significant impact on air quality was the 90th Percentage AQI value. After applying our model to the 2023 data, we attained a result of 3% for Mecklenburg and almost 1% for Raleigh. It is 3x the amount of unhealthy air pollutant days in Mecklenburg compared to Wake! We can also interpret these results as 97% Healthy and safe days Mecklenburg and Wake is predicted to have 99% healthy days for this year. Traffic, Transportation, and Population Density are all components which can influence air quality.
