@@ -9,12 +9,15 @@ The primary objective is to employ Linear Regression, facilitated by Scikit-lear
 > Our group aims to create an algorithm that can predict air quality in different counties in North Carolina (NC). Air Quality can affect many people, including those with respiratory issues. As a group, we also feel passionate about protecting the enviroment and felt curious about the air quality of our own state. 
 
 # 🌙 The Process
-## Preprocessing Steps:
-1. **Data Cleaning:** Address missing values and handle outliers to ensure data integrity.
-2. **Data Transformation:**  Certain columns are converted to more efficient data types.
-3. **Feature Engineering:** Derive meaningful features such as the Unhealthy Days percentage from raw data.
-4. **2023 Data:** Finding Data for Mecklenburg and Wake county in order to fit into our model
-   Files: meck_co.ipynb , merge-csv.ipynb , nc_2023_data.ipynb, and updated_analysis_notebook.ipynb
+## Pre-Processing Steps:
+1. **Data Cleaning:** Address missing values and handle outliers to ensure data integrity. Focusing on North Carolina counties.
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/b9e239d9-845b-4300-8716-9cdc6f62d7b2)
+3. **Data Transformation:**  Certain columns are converted to more efficient data types.
+4. **Feature Engineering:** Derive meaningful features such as the Unhealthy Days percentage from raw data.
+5. **2023 Data:** Finding Data for Mecklenburg and Wake county in order to fit into our model
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/84f0113a-2ea7-4fa1-8b20-3795f8eea7fb)
+### Files
+Files Used for Pre-Processing: `meck_co.ipynb`, `merge-csv.ipynb`, `nc_2023_data.ipynb`, and `updated_analysis_notebook.ipynb`
 
 ## Data Storage in SQL:
 1. **Database Storage:** Data is saved in table format, suitable for complex queries and analysis.
