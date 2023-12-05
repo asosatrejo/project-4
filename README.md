@@ -39,8 +39,14 @@ The primary objective is to employ Linear Regression, facilitated by Scikit-lear
 
 ## Tableau Dashboard:
 1. **Past Patterns and Future Predictions:** Showcases predicted pollutant concentrations for 2023 based on previous data
-2. **Exploring Relationships in Exposure Levels:** Highlights pollutant pairings in Mecklenburg and Wake County
-3. **90th Percentile Analysis:** Demonstrates line graph of air quality over time.
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/a3f16356-0ee5-4bcf-9ef2-43b64b157090)
+
+3. **Exploring Relationships in Exposure Levels:** Highlights pollutant pairings in Mecklenburg and Wake County
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/e8571560-0efe-441f-ada0-56b1c2e0ffa8)
+
+4. **90th Percentile Analysis:** Demonstrates line graph of air quality over time.
+   ![image](https://github.com/asosatrejo/project-4/assets/135572871/4b83e91f-ea2f-40c1-9f3d-52228adad3b8)
+
 
 **View [Tableau](https://public.tableau.com/app/profile/mary.feaster/viz/EnvironmentalMLAnalyticsNCUrbanAreas/Story1) Dashboard**
 
